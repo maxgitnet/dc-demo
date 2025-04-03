@@ -1,0 +1,5 @@
+export DOTFILES_REPO="https://github.com/maxgitnet/dc-demo.git"
+cd ~
+git clone ${DOTFILES_REPO}
+cd dotfiles
+source setup
