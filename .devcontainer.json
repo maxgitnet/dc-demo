@@ -1,0 +1,7 @@
+{
+    "name": "maxpod",
+    "image": "debian:stable",
+    "features": {
+        "ghcr.io/devcontainers/features/nix:1": {}
+    }
+}
